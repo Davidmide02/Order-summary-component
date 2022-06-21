@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/Davidmide02/Order-summary-component.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://celadon-cuchufli-3a5d91.netlify.app/)
 
 ## My process
 - firlty , analysis the design

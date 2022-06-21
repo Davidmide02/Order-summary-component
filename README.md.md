@@ -28,13 +28,13 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Davidmide02/Order-summary-component.git)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 - firlty , analysis the design
 - Set up the html page and CSS page
-- started buikding the blocks
+- started building the blocks
 - Position and beautifying the design with CSS
 - Cross checked the code for clean up
 - Submition
